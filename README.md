@@ -1,10 +1,8 @@
 # sap-hana-cloud-trial
-Management script for experimenting with SAP HANA Cloud DB Trial using Eclipse via Tunnels with the goal of using the Eclipse-based modelling tools for cloud based HANA DBs
+Management script for experimenting with SAP HANA Cloud DB Trial using Eclipse via Tunnels with the goal of using the Eclipse-based modelling tools for cloud based HANA DBs.
 
 ## Overview
-SAP offers trial versions of their cloud based HANA DB which will automatically stop running after 12 Hours and are deleted after a week, but they come free of charge and are therefore very usefull for experiments or in teaching settings.
-
-This repository
+SAP offers trial versions of their cloud based HANA DB which will automatically stop running after 12 Hours and are deleted after a week, but they come free of charge and are therefore very useful for experiments or in teaching settings.
 
 ## Configuration
 ### Prerequesits
